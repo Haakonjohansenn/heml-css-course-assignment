@@ -1,0 +1,151 @@
+html, body {
+  min-height: 45px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #444;
+}
+
+header {
+  background-color: #dadada;
+  width: 100%;
+}
+
+.back-button {
+  color: #000000;
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+.back-button-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.parent-container-header {
+  display: flex;
+}
+
+.cart-button {
+  padding: 13px;
+  height: 50px;
+  width: 60px;
+  background-color: #ff9417;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  font-size: 25px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.logo {
+  max-height: 100px;
+  margin: auto;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  font-size: 20px;
+  margin-top: 35px;
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+footer {
+  width: 100%;
+  background-color: #dadada;
+  position: relative;
+  left:0px;
+  bottom:0px;
+  height: inherit;
+}
+
+.parent-footer {
+  display: flex;
+}
+
+.search {
+  color: #000000;
+  margin-top: 10px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+}
+
+.hero-image-men {
+  background-image: url(/patrick-hendry-PQa5vHHnpm4-unsplash.jpg);
+  min-width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0% 0%;
+  object-fit: contain;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+.rainydays-jacket1 {
+  height: 120px;
+  width: 90px;
+}
+
+.rainydays-jacket2 {
+  height: 120px;
+  width: 90px;
+}
+
+.rainydays-jacket1-margin {
+  height: 120px;
+  width: 90px;
+  margin-top: 40px;
+}
+
+.rainydays-jacket2-margin {
+  height: 120px;
+  width: 90px;
+  margin-top: 40px;
+}
+
+.jackets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5rem;
+  justify-content: center;
+  color: #fff;
+}
+
+
+.button {
+  background-color: #ff9417;
+  border: none;
+  padding: 6px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+section a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.cart-icon {
+  color: #fff;
+}
+
+.plus {
+  color: #fff;
+}

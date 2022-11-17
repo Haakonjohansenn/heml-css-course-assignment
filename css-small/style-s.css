@@ -1,0 +1,126 @@
+html, body {
+  min-height: 45px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #444;
+}
+
+header {
+  background-color: #dadada;
+  width: 100%;
+}
+
+.back-button {
+  color: #000000;
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+.back-button-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.parent-container-header {
+  display: flex;
+}
+
+.cart-button {
+  padding: 13px;
+  height: 50px;
+  width: 60px;
+  background-color: #ff9417;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  font-size: 25px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+.logo {
+  max-height: 100px;
+  margin: auto;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  font-size: 20px;
+  margin-top: 35px;
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+footer {
+  width: 100%;
+  background-color: #dadada;
+  position: relative;
+  left:0px;
+  bottom:0px;
+  height: inherit;
+}
+
+.parent-footer {
+  display: flex;
+}
+
+.search {
+  color: #000000;
+  margin-top: 10px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+}
+
+.hero-header {
+  font-size: 2rem;
+  text-align: center;
+}
+
+h1{
+  color: #fff;
+}
+
+
+.button {
+  display: grid;
+  place-content: center;
+  height: 100px;
+  max-width: 200px;
+  background-color: #ff9417;
+  color: white;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  text-decoration: none;
+  margin: 0% 0% 0% 70%;
+}
+
+.shop-men {
+  margin-top: 175px;
+}
+
+.shop-women {
+  top: 350px;
+  margin-bottom: 40px;
+}
+
+.hero-section {
+  background-image: url(/alexander-kaufmann-StfgyoFRnwE-unsplash.jpg);
+  max-width: 100%;
+  min-height: 69vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: grid;
+}

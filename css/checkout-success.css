@@ -1,0 +1,41 @@
+html, body {
+  min-height: 45px;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #444444;
+}
+
+header {
+  background-color: #DADADA;
+  width: 100%;
+}
+
+.logo {
+  max-height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.iconify {
+  width: 100px;
+  height: 100px;
+  color: orange;
+}
+
+.truck-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 250px;
+  margin: left right auto;
+}
+
+.icon-text {
+  color: #fff;
+}

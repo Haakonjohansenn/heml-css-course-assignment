@@ -1,0 +1,99 @@
+html, body {
+  min-height: 45px;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #dadada;
+  width: 100%;
+}
+
+.logo {
+  max-height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-header-about {
+  text-align: center;
+  font-size: 2rem;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.line {
+  height: 1px;
+  background: black;
+  width: 250px;
+  margin: auto;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  max-width: 90vw;
+  margin-top: 30px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #8B8484;
+}
+
+.story {
+  max-width: 500px;
+}
+
+.story-text2 {
+  margin-top: 30px;
+}
+
+.team-text {
+  max-width: 500px;
+}
+
+.story-img {
+  display: flex;
+  justify-content: center;
+}
+
+.story-image-child {
+  width: 250px;
+}
+
+.staff-picture1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.staff-picture2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.michaela {
+  margin-right: 20px;
+}
+
+.cathrine {
+  margin-right: 20px;
+}
+
+.staff-pic {
+  width: 100px;
+}
+
+.staff-text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+
