@@ -64,7 +64,6 @@ footer {
   position: fixed;
   left:0px;
   bottom:0px;
-  height: inherit;
   z-index: 300;
 }
 
