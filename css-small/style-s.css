@@ -35,7 +35,7 @@ header {
   height: 50px;
   width: 60px;
   background-color: #ff9417;
-  color: #fff;
+  color: rgb(17, 11, 11);
   border: none;
   border-radius: 20px;
   font-size: 25px;
@@ -98,7 +98,7 @@ h1{
   height: 100px;
   max-width: 200px;
   background-color: #ff9417;
-  color: white;
+  color: rgb(21, 17, 17);
   border: 1px solid #000000;
   border-radius: 6px;
   text-decoration: none;
