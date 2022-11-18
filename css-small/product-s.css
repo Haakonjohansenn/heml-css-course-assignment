@@ -115,9 +115,10 @@ main {
 }
 
 .text-rainyjacket {
-  color: rgb(21, 17, 17);
+  color: rgb(251, 251, 251);
   display: flex;
   justify-content: center;
+  margin-bottom: 5px;
 }
 
 .button-container {
