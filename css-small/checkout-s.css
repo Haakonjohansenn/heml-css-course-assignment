@@ -31,7 +31,7 @@ header {
   height: 50px;
   width: 60px;
   background-color: #ff9417;
-  color: #fff;
+  color: rgb(21, 17, 17);
   border: none;
   border-radius: 20px;
   font-size: 25px;
@@ -104,7 +104,7 @@ form {
   text-decoration: none;
   display: grid;
   place-content: center;
-  color: white;
+  color: rgb(21, 17, 17);
   border: none;
   height: 60px;
   width: 300px;
@@ -132,7 +132,7 @@ input {
     text-decoration: none;
     display: grid;
     place-content: center;
-    color: white;
+    color: rgb(21, 17, 17);
     border: none;
     height: 60px;
     width: 350px;

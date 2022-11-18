@@ -124,7 +124,7 @@ h1 {
   flex-wrap: wrap;
   gap: 5rem;
   justify-content: center;
-  color: #fff;
+  color: #fff
 }
 
 
@@ -138,13 +138,13 @@ h1 {
 
 .jackets a {
   text-decoration: none;
-  color: #fff;
+  color: rgb(21, 17, 17);
 }
 
 .cart-icon {
-  color: #fff;
+  color: rgb(21, 17, 17);
 }
 
 .plus {
-  color: #fff;
+  color: rgb(21, 17, 17);
 }
