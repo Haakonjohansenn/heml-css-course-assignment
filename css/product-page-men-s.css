@@ -148,3 +148,14 @@ h1 {
 .plus {
   color: rgb(21, 17, 17);
 }
+
+@media screen and (min-width:600px) {
+  .jackets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5rem;
+    justify-content: center;
+    color: #fff;
+    gap: 6rem;
+  }
+}

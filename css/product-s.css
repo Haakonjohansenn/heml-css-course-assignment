@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 html, body {
   min-height: 45px;
   width: 100%;
@@ -119,6 +121,7 @@ main {
   display: flex;
   justify-content: center;
   margin-bottom: 5px;
+  font-family: 'Poppins', sans-serif;
 }
 
 .button-container {
@@ -195,4 +198,5 @@ main {
   text-decoration: none;
   margin: auto;
   margin-top: 40px;
+  font-family: 'Poppins', sans-serif;
 }

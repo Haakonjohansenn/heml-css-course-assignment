@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 html, body {
   min-height: 45px;
   width: 100%;
@@ -99,7 +101,7 @@ form {
   margin-top: 20px;
 }
 
-.submit {
+.checkout {
   background-color: #FF9417;
   text-decoration: none;
   display: grid;
@@ -109,6 +111,7 @@ form {
   height: 60px;
   width: 300px;
   font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
 }
 
 input {
@@ -127,7 +130,7 @@ input {
 }
 
 @media screen and (min-width: 600px) {
-  .submit {
+  .checkout {
     background-color: #FF9417;
     text-decoration: none;
     display: grid;
@@ -137,6 +140,7 @@ input {
     height: 60px;
     width: 350px;
     font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
   }
 
   .line-1 {
