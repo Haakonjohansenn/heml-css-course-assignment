@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-html, body {
+html,
+body {
   min-height: 45px;
   width: 100%;
   box-sizing: border-box;
@@ -49,7 +50,7 @@ header {
 
 .cart-button a {
   text-decoration: none;
-  color:  rgb(21, 17, 17);
+  color: rgb(21, 17, 17);
 }
 
 .logo {
@@ -75,8 +76,8 @@ footer {
   width: 100%;
   background-color: #dadada;
   position: relative;
-  left:0px;
-  bottom:0px;
+  left: 0px;
+  bottom: 0px;
 }
 
 .parent-footer {
@@ -96,10 +97,9 @@ footer {
   text-align: center;
 }
 
-h1{
+h1 {
   color: #fff;
 }
-
 
 .button {
   display: grid;
@@ -112,7 +112,7 @@ h1{
   border-radius: 6px;
   text-decoration: none;
   margin: 0% 0% 0% 70%;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .shop-men {

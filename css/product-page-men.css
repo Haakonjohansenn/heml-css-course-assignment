@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   min-height: 45px;
   width: 100%;
   box-sizing: border-box;
@@ -47,7 +48,7 @@ header {
 
 .cart-button a {
   text-decoration: none;
-  color:  rgb(21, 17, 17);
+  color: rgb(21, 17, 17);
 }
 
 .logo {
@@ -73,8 +74,8 @@ footer {
   width: 100%;
   background-color: #dadada;
   position: relative;
-  left:0px;
-  bottom:0px;
+  left: 0px;
+  bottom: 0px;
 }
 
 .parent-footer {
@@ -131,9 +132,8 @@ h1 {
   flex-wrap: wrap;
   gap: 5rem;
   justify-content: center;
-  color: #fff
+  color: #fff;
 }
-
 
 .button {
   background-color: #ff9417;
@@ -156,7 +156,7 @@ h1 {
   color: rgb(21, 17, 17);
 }
 
-@media screen and (min-width:600px) {
+@media screen and (min-width: 600px) {
   .jackets {
     display: flex;
     flex-wrap: wrap;
