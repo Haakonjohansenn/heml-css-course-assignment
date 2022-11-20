@@ -39,6 +39,11 @@ header {
   margin-top: 20px;
 }
 
+.cart-button a {
+  text-decoration: none;
+  color:  rgb(21, 17, 17);
+}
+
 .logo {
   max-height: 100px;
   margin: auto;
